@@ -32,3 +32,6 @@ function copy(el) {
 }
 
 
+window.generate = generate
+window.reset = reset
+window.copy = copy
